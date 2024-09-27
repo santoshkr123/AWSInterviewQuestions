@@ -1,8 +1,29 @@
-**Amazon Web Services (AWS)** is a cloud computing platform offered by Amazon, providing a wide range of services, including computing power, storage, and databases. Key features include:
+1.What is AWS ?
+Amazon Web Services (AWS) is a cloud computing platform offered by Amazon, providing a wide range of services, including computing power, storage, and databases. Key features include:
 
-- **Scalability**: Resources can be adjusted based on demand.
-- **Global Infrastructure**: Data centers worldwide for low-latency access.
-- **Pay-as-You-Go Pricing**: Only pay for what you use.
-- **Security**: Robust security features and compliance certifications.
+- Scalability: Resources can be adjusted based on demand.
+- Global Infrastructure: Data centers worldwide for low-latency access.
+- Pay-as-You-Go Pricing: Only pay for what you use.
+- Security: Robust security features and compliance certifications.
 
 AWS supports various use cases like web hosting, data storage, analytics, and machine learning, enabling businesses to build and manage applications efficiently in the cloud.
+
+
+2.2. What is Amazon EC2, and what are its primary use cases?
+
+Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable compute capacity in the cloud. It allows users to run virtual servers, known as instances, on demand. EC2 enables developers to deploy applications quickly, scale resources up or down as needed, and pay only for what they use.
+
+### Primary Use Cases:
+1.Web Hosting
+2.Application Hosting
+3.Data Processing
+4.Development and Testing 
+5.High-Performance Computing
+6.Disaster Recovery
+7. Gaming 
+8.Containerized Applications
+
+
+
+
+
