@@ -23,6 +23,28 @@ Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable comp
 7. Gaming 
 8.Containerized Applications
 
+3. Explain the difference between EC2 instances and traditional servers. Brief answer : 
+
+ The key differences between EC2 instances and traditional servers in point form:
+
+### EC2 Instances
+- Virtualization : Operate in the cloud as virtual servers.
+- Scalability : Easily scale up or down based on demand.
+- Cost : Pay-as-you-go pricing model with no upfront costs.
+- Management : Automated management and updates.
+- Accessibility : Access from anywhere with an internet connection.
+- Flexibility : Quick deployment of different configurations and instances.
+
+### Traditional Servers
+- Physical Hardware : Require physical machines located on-premises or in a data center.
+- Scalability : Manual scaling; requires purchasing and setting up new hardware.
+- Cost : High upfront investment and ongoing maintenance costs.
+- Management : Requires manual management, updates, and repairs.
+- Accessibility : Limited to local network access unless configured for remote access.
+- Control : More control over hardware and configurations, but less flexibility.
+
+
+
 
 
 
