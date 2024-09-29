@@ -44,6 +44,11 @@ Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable comp
 - Control : More control over hardware and configurations, but less flexibility.
 
 
+4.What is the significance of AMIs (Amazon Machine Images)?
+
+Amazon Machine Images (AMIs) are significant because they provide preconfigured environments for launching virtual servers in AWS. They enable quick scalability, serve as backups, allow customization, ensure security consistency, and facilitate cost-efficient resource management. Essentially, AMIs streamline the deployment and management of cloud applications.
+
+
 
 
 
