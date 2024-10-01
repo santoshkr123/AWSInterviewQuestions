@@ -46,7 +46,45 @@ Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable comp
 
 4.What is the significance of AMIs (Amazon Machine Images)?
 
-Amazon Machine Images (AMIs) are significant because they provide preconfigured environments for launching virtual servers in AWS. They enable quick scalability, serve as backups, allow customization, ensure security consistency, and facilitate cost-efficient resource management. Essentially, AMIs streamline the deployment and management of cloud applications.
+Amazon Machine Images (AMIs) are significant because they provide preconfigured environments for 
+launching virtual servers in AWS. They enable quick scalability, serve as backups, allow customization, ensure security consistency, and facilitate cost-efficient resource management. Essentially, AMIs streamline the deployment and management of cloud applications.
+
+5. How do you choose the right instance type for your workload?
+
+Choosing the right instance type for your workload involves several key factors:
+
+1. Workload Requirements : Assess CPU, memory, storage, and network needs. For compute-intensive tasks, choose high CPU instances; for memory-intensive applications, opt for high RAM instances.
+
+2. Performance Characteristics : Consider the required IOPS for storage and any latency requirements.
+
+3. Scalability : Ensure the instance type can scale vertically or horizontally based on future demands.
+
+4. Cost : Evaluate the pricing structure and choose a type that fits your budget while meeting performance needs.
+
+5. Use Case : Match the instance type to your specific application, such as general-purpose, GPU-optimized, or storage-optimized instances.
+
+
+6. 6. What are the key components of an EC2 instance?
+
+
+
+The key components of an EC2 (Elastic Compute Cloud) instance are:
+
+
+
+1. Instance Type
+
+2. Amazon Machine Image (AMI) 
+
+3. Storage 
+
+4. Network
+
+5. Key Pairs
+
+6.  Security Groups 
+
+7. Monitoring and Management 
 
 
 
