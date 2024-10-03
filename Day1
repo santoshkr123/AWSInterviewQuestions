@@ -66,8 +66,6 @@ Choosing the right instance type for your workload involves several key factors:
 
 6. 6. What are the key components of an EC2 instance?
 
-
-
 The key components of an EC2 (Elastic Compute Cloud) instance are:
 
 
@@ -85,6 +83,38 @@ The key components of an EC2 (Elastic Compute Cloud) instance are:
 6.  Security Groups 
 
 7. Monitoring and Management 
+
+
+7.  Describe the process of launching an EC2 instance.
+
+     Launching an EC2 instance involves several key steps:
+
+1. Sign in to AWS Management Console
+
+2. Navigate to EC2 Dashboard 
+
+3. Launch Instance
+ - Click on “Launch Instance.”
+ - Choose an Amazon Machine Image (AMI) that serves as a template for your instance.
+
+4. Select Instance Type
+
+5. Configure Instance Details
+
+6. Add Storage
+
+7. Add Tags
+
+8. Configure Security Group
+
+9. Review and Launch
+
+10. Select or Create Key Pair
+
+11. Launch
+
+12. Access the Instance
+
 
 
 
