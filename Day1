@@ -85,7 +85,7 @@ The key components of an EC2 (Elastic Compute Cloud) instance are:
 7. Monitoring and Management 
 
 
-7.  Describe the process of launching an EC2 instance.
+7.Describe the process of launching an EC2 instance.
 
      Launching an EC2 instance involves several key steps:
 
@@ -114,6 +114,24 @@ The key components of an EC2 (Elastic Compute Cloud) instance are:
 11. Launch
 
 12. Access the Instance
+
+
+8.How do you monitor the performance of an EC2 instance?
+
+
+To monitor the performance of an EC2 instance, you can use the following tools and methods:
+
+1.Amazon CloudWatch
+
+2.EC2 Instance Metrics
+
+3.Enhanced Monitoring
+
+4.CloudWatch Logs
+
+5.AWS Systems Manage
+
+6.Third-party Monitoring Tools
 
 
 
