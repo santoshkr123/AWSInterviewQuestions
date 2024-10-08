@@ -134,6 +134,13 @@ To monitor the performance of an EC2 instance, you can use the following tools a
 6.Third-party Monitoring Tools
 
 
+9. What are security groups, and how do they work?
+
+Security groups are virtual firewalls used in cloud environments, like AWS, to control inbound and outbound traffic to resources such as EC2 instances. They define rules based on IP protocols, port numbers, and source/destination IP addresses.
+
+How they work:
+->Rule-Based , Stateful ,Multiple Groups , Dynamic Changes
+
 
 
 
