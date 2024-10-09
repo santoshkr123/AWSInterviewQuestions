@@ -141,6 +141,9 @@ Security groups are virtual firewalls used in cloud environments, like AWS, to c
 How they work:
 ->Rule-Based , Stateful ,Multiple Groups , Dynamic Changes
 
+10.What are key pairs, and why are they important in EC2?
+Key pairs in Amazon EC2 consist of a public key and a private key used for secure SSH access to your instances. The public key is stored on the EC2 instance, while the private key is kept secure by the user. They are important because they enable secure, encrypted connections to your instances, ensuring that only authorized users can access and manage them. Without key pairs, it would be challenging to securely connect to your EC2 instances.
+
 
 
 
