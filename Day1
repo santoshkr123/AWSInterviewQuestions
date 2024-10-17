@@ -162,6 +162,26 @@ Key pairs in Amazon EC2 consist of a public key and a private key used for secur
 - Availability: No risk of termination; fully available as needed.
 - Use Case: Suitable for short-term or unpredictable workloads, allowing for flexibility in resource usage.
 
+ Explain the concept of Elastic Load Balancing (ELB) with EC2.
+
+Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple EC2 instances to ensure high availability and reliability. 
+
+Key features include:
+
+1. Traffic Distribution : ELB routes incoming requests to healthy instances, improving fault tolerance and optimizing resource use.
+
+2. Health Checks : Regularly checks the health of instances and only sends traffic to those that are healthy.
+
+3. Types of Load Balancers :
+ - Application Load Balancer (ALB) : Ideal for HTTP/HTTPS traffic, supports advanced routing, and integrates with microservices.
+ - Network Load Balancer (NLB) : Handles TCP traffic, providing low latency and high throughput.
+ - Classic Load Balancer : Supports both HTTP and TCP, primarily for legacy applications.
+
+4. Scaling : Works seamlessly with Auto Scaling groups to adapt to changing traffic loads.
+
+By using ELB, applications can achieve better performance and reliability.
+
+
 
 
 
