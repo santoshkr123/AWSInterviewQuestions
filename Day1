@@ -182,6 +182,14 @@ Key features include:
 By using ELB, applications can achieve better performance and reliability.
 
 
+ 🌴 What is an EBS (Elastic Block Store) ?
+Amazon Elastic Block Store (EBS) is a cloud-based storage service designed for use with Amazon EC2 (Elastic Compute Cloud). It provides persistent block storage, meaning the data stored on EBS volumes persists independently of the life of the EC2 instances that use them. Here are some key features of EBS:
+
+1.Persistence 2.Scalability 3.Snapshots 4.Performance 
+
+
+
+
 
 
 
